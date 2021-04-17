@@ -1,3 +1,6 @@
+#This is from the tutorial by [Marius Espejo from his channel](https://www.youtube.com/channel/UCDpd-qEwAI9wglx4tsEBAtw)
+##[NestJS Crash Course: Everything you need to know! | NodeJS Tutorial 2021](https://youtu.be/2n3xS89TJMI)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
